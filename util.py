@@ -6,7 +6,6 @@ import pandas as pd
 class _LinUCBnTSSingle:
     def __init__(self, alpha, context_dim):
         self.alpha = alpha
-        self.ts = ts
         if 'Ainv' not in dir(self):
             self.Ainv = np.eye(context_dim)
             self.b = np.zeros((context_dim, 1))

@@ -16,7 +16,7 @@ class HATCH:
         self.time = t
         self.contextdic = contextdic
         self.gmm = gmm
-        self._add_common_lin(alpha, nchoices, njobs, J)
+        self._add_common_lin(alpha, nchoices, njobs, J, context_dim)
         self.ustar = [0 for i in range(J)]
 
     def _add_common_lin(self, alpha, nchoices, njobs, J, context_dim):
