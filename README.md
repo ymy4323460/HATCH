@@ -1,4 +1,4 @@
-# HATCH
+# Hierarchical Adaptive Contextual Bandits for Resource Constraint based Recommendation (HATCH)
 This codebase contains implementation of paper Hierarchical Adaptive Contextual Bandits for Resource Constraint based Recommendation.
 
 https://arxiv.org/abs/2004.01136
@@ -19,7 +19,7 @@ bandit.py      --implement of HATCH
 evaluation.py  --the offline training and evaluation function  
 utils.py       --the tools of main function  
 
-## BIB
+## Citation
     
 >@article{DBLP:journals/corr/abs-2004-01136,  
 >&#160; &#160; &#160; &#160; author    = {Mengyue Yang and Qingyang Li and Zhiwei Qin and Jieping Ye},  
