@@ -1,4 +1,5 @@
 # Hierarchical Adaptive Contextual Bandits for Resource Constraint based Recommendation (HATCH)
+Authors: Mengyue Yang (owner), Qingyang Li, Zhiwei Qin, Jieping Ye
 This codebase contains implementation of paper Hierarchical Adaptive Contextual Bandits for Resource Constraint based Recommendation.
 
 https://arxiv.org/abs/2004.01136
