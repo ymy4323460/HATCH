@@ -15,6 +15,8 @@ pandas  1.0.3
 scipy   1.4.1  
 sklearn 0.22.2  
 
+This repository only provides a small set of example data from Yahoo! Front Page, more data please check the following link https://webscope.sandbox.yahoo.com/catalog.php?datatype=r&did=49&guccounter=1
+
 ## Files:
 solver.ipynb   --the guidance of conducting HATCH  
 bandit.py      --implement of HATCH  
